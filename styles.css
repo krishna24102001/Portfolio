@@ -24,14 +24,14 @@ ul{
 h1{
     padding: 1rem 1rem;
     margin-left: 1rem;
-    font-size:xx-large;
+    font-size: 225%;
     flex: 1;
 }
 a{
     text-decoration: none;
 }
 hr{
-    margin: 4rem 12%;
+    margin: 4rem 8%;
     border: 2px solid var(--primary-color);
 }
 .button{
@@ -87,11 +87,15 @@ hr{
     align-items: center;
     margin: 1rem;
 }
+.iamkrishna{
+    font-size: xx-large;
+}
 .extrainfo{
     margin-left: 15%;
     width: 40%;
     line-height: 1.5rem;
     color: black;
+    font-size: larger;
 }
 section{
     margin: auto 15%;
@@ -100,16 +104,19 @@ section h2{
     display: flex;
     justify-content: center;
     color: var(--secondary-color);
+    font-size: xx-large;
 }
 section p{
     display: flex;
     justify-content: center;
     color: black;
+    font-size: larger;
 }
 
 .projectpagehead{
     display: flex;
     justify-content: center;
+    font-size: x-large;
 }
 .projectWindow{
     margin: 2rem 15%;
@@ -125,6 +132,7 @@ section p{
     padding: none;
     margin: auto;
     color: var(--secondary-color);
+    font-size: xx-large;
 }
 .projectDate{
     display: flex;
@@ -138,6 +146,7 @@ section p{
     justify-content: center;
     margin: auto;
     color: black;
+    font-size: larger;
     text-align: justify;
     padding: 1rem;
 }
