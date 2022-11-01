@@ -119,7 +119,8 @@ section p{
     font-size: x-large;
 }
 .projectWindow{
-    margin: 2rem 15%;
+    margin-left: 15%;
+    margin-right: 15%;
     padding: 3rem;
     border-radius: 1rem;
 }
